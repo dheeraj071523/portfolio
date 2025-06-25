@@ -105,10 +105,4 @@ export const Skills = [
     title: "Postman",
     Description: () => <>Testing and debugging APIs</>,
   },
-  {
-    slug: "figma",
-    Component: FiFigma,
-    title: "Figma",
-    Description: () => <>UI design references and layouting</>,
-  },
 ];

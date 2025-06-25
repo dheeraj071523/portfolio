@@ -43,6 +43,17 @@ export const projects = [
   },
 
   {
+    title: "AI Image Analyzer",
+    description:
+      "AI Image Analyzer is a robust full-stack platform that empowers users to upload images and instantly receive detailed, AI-driven analysis, feedback, and ratings. Leveraging advanced machine learning models, the app provides insightful interpretations and actionable suggestions, making image assessment smarter and more interactive.",
+    image: "/images/image.png",
+    tags: ["React", "Node.js", "Cloudinary", "AI"],
+    source: "https://github.com/dheeraj231507/rippleshotaifront.git",
+    visit: "https://rippleshotaifront.vercel.app/",
+    id: 4,
+  },
+
+  {
     title: "AI Test Generator (Coming Soon)",
     description:
       "An AI-powered test generator currently in development — this web app will allow users to upload PDFs, select topics or subjects, and generate MCQ as well as subjective questions using OpenAI. It will also evaluate answers and give intelligent feedback. Stay tuned for a smarter way to study!",
@@ -50,7 +61,7 @@ export const projects = [
     tags: ["React", "Node.js", "OpenAI", "MongoDB", "PDF", "OpenAI"],
     source: "https://github.com/dheeraj071523/ai-test-generator",
     visit: "https://coming-soon-link.com",
-    id: 4,
+    id: 5,
   },
 ];
 
