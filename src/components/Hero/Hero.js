@@ -18,7 +18,7 @@ const Hero = (props) => (
         </SectionTitle>
         <SectionText>
           Dheeraj Kumawat, also known as dheeraj071523, is a Full-Stack
-          Developer at Equilib Foundation(Full Time) and also make AI-powered apps, passionate
+          Developer and also make AI-powered apps, passionate
           about building scalable web solutions with clean UI and deep tech
           understanding.
         </SectionText>
