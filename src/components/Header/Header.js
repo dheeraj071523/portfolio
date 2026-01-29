@@ -5,7 +5,9 @@ import {
   AiFillInstagram,
   AiFillLinkedin,
   AiFillTwitterCircle,
+  
 } from "react-icons/ai";
+import { SiLeetcode } from "react-icons/si";
 import {
   Container,
   Div1,
@@ -60,6 +62,9 @@ const Header = () => (
       </SocialIcons>
       <SocialIcons href="https://x.com/Dheeraj50256041">
         <AiFillTwitterCircle size="3rem" />
+      </SocialIcons>
+      <SocialIcons href="https://leetcode.com/u/dheerajkumawat0707/">
+         <SiLeetcode size = "3rem" />
       </SocialIcons>
     </Div3>
   </Container>
